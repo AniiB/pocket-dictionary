@@ -1,7 +1,7 @@
 # Pocket Dictionary: <a href="https://p0cket-dictionary.netlify.app/" target="_blank">Check it out here!</a>
 <a href="https://p0cket-dictionary.netlify.app/" target="_blank"><img src="https://i.giphy.com/media/Rsawf36RxuD7NtZ98k/giphy.webp" /></a>
 
-Time to go back to school. And when you do take this dictionary with you!
+Look up any word's meaning!
 
 ## Tech used: HTML | CSS | Vanilla JS
 
